@@ -1,2 +1,2 @@
 # CODSOFT
-This is pyhton project
+This is python project
